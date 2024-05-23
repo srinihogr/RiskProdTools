@@ -14,5 +14,6 @@
         "*.fragment": "default"
     },
     "wattFeature.hanaTools.useLocalConnection": true,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "SAP HANA Database Explorer.ShowXsAdvancedConnections": true
 }
